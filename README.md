@@ -1,0 +1,2 @@
+# shreekrishnatrade
+static website
